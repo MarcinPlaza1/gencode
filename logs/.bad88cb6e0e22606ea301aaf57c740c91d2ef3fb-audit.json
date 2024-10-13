@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/marcinplaza/Documents/MVP/backend/logs/.bad88cb6e0e22606ea301aaf57c740c91d2ef3fb-audit.json",
+    "files": [
+        {
+            "date": 1728818061178,
+            "name": "/Users/marcinplaza/Documents/MVP/backend/logs/combined-2024-10-13.log",
+            "hash": "6168e24a1bef3fbe0637023acf070028e241f5063a065d378561a2adbb0492e0"
+        }
+    ],
+    "hashType": "sha256"
+}

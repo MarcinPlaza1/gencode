@@ -1,0 +1,1620 @@
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Configuring CORS settings..."}
+{"aiPrompt":"Jesteś ekspertem programowania. Napisz optymalny kod w Python.\nOto problem do rozwiązania:\nHello World in Python","level":"info","message":"Sending request to OpenAI API with prompt:"}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Received response from OpenAI API","responseData":{"choices":[{"finish_reason":"stop","index":0,"logprobs":null,"message":{"content":"Aby napisać program \"Hello, World!\" w Pythonie, wystarczy użyć funkcji `print()`. Oto optymalny kod:\n\n```python\nprint(\"Hello, World!\")\n```\n\nTen kod wypisuje tekst \"Hello, World!\" na standardowe wyjście (zwykle konsola). Jest to najbardziej efektywny i bezpośredni sposób na osiągnięcie tego zadania w Pythonie.","refusal":null,"role":"assistant"}}],"created":1728818985,"id":"chatcmpl-AHr57XX6xUJ64UhYE7fo2v1IGxW6a","model":"gpt-4o-2024-08-06","object":"chat.completion","system_fingerprint":"fp_6b68a8204b","usage":{"completion_tokens":92,"completion_tokens_details":{"reasoning_tokens":0},"prompt_tokens":36,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":128}}}
+{"level":"info","message":"Fetching last version of code for prompt:","prompt":"Hello World in Python"}
+{"level":"info","message":"Saving new version of code with version:","version":1}
+{"level":"info","message":"Fetching code history..."}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"aiPrompt":"Jesteś ekspertem programowania. Napisz optymalny kod w Python.\nOto problem do rozwiązania:\nHello World in Python","level":"info","message":"Sending request to OpenAI API with prompt:"}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Received response from OpenAI API","responseData":{"choices":[{"finish_reason":"stop","index":0,"logprobs":null,"message":{"content":"Oczywiście! Aby wypisać \"Hello, World!\" w Pythonie, można użyć bardzo prostego i powszechnie znanego kodu. Oto optymalny sposób, aby to zrobić:\n\n```python\nprint(\"Hello, World!\")\n```\n\nTo polecenie wykorzystuje funkcję `print()`, która służy do wyświetlania tekstu na ekranie. W tym przypadku przekazujemy jej ciąg znaków \"Hello, World!\", który zostanie wypisany po uruchomieniu programu.","refusal":null,"role":"assistant"}}],"created":1728819067,"id":"chatcmpl-AHr6RzDVordStWJPl4ZABH8DV2HVs","model":"gpt-4o-2024-08-06","object":"chat.completion","system_fingerprint":"fp_6b68a8204b","usage":{"completion_tokens":113,"completion_tokens_details":{"reasoning_tokens":0},"prompt_tokens":36,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":149}}}
+{"level":"info","message":"Fetching last version of code for prompt:","prompt":"Hello World in Python"}
+{"level":"info","message":"Saving new version of code with version:","version":1}
+{"level":"info","message":"Fetching code history..."}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Configuring CORS settings..."}
+{"aiPrompt":"Jesteś ekspertem programowania. Napisz optymalny kod w Python.\nOto problem do rozwiązania:\nHello World in Python","level":"info","message":"Sending request to OpenAI API with prompt:"}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Received response from OpenAI API","responseData":{"choices":[{"finish_reason":"stop","index":0,"logprobs":null,"message":{"content":"Oczywiście! Oto prosty i optymalny kod w Pythonie, który wypisuje \"Hello, World!\" na ekranie:\n\n```python\nprint(\"Hello, World!\")\n```\n\nTen jednolinijkowy kod jest najbardziej efektywnym sposobem na osiągnięcie tego celu w Pythonie. Używa on funkcji `print()`, która jest wbudowaną funkcją języka Python służącą do wyświetlania tekstu na standardowym wyjściu.","refusal":null,"role":"assistant"}}],"created":1728819117,"id":"chatcmpl-AHr7FeTEbnLooT0zi6jr3mBEjE1Ub","model":"gpt-4o-2024-08-06","object":"chat.completion","system_fingerprint":"fp_a20a4ee344","usage":{"completion_tokens":107,"completion_tokens_details":{"reasoning_tokens":0},"prompt_tokens":36,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":143}}}
+{"level":"info","message":"Fetching last version of code for prompt:","prompt":"Hello World in Python"}
+{"level":"info","message":"Saving new version of code with version:","version":1}
+{"level":"info","message":"Fetching code history..."}
+{"level":"info","message":"Configuring CORS settings..."}
+{"aiPrompt":"Jesteś ekspertem programowania. Napisz optymalny kod w Python.\nOto problem do rozwiązania:\nHello World in Python","level":"info","message":"Sending request to OpenAI API with prompt:"}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Received response from OpenAI API","responseData":{"choices":[{"finish_reason":"stop","index":0,"logprobs":null,"message":{"content":"Oczywiście! Oto prosty i optymalny kod w Pythonie, który wyświetla \"Hello, World!\":\n\n```python\nprint(\"Hello, World!\")\n```\n\nTo jest najprostszy sposób na wypisanie \"Hello, World!\" w Pythonie. Funkcja `print()` służy do wyświetlania tekstu na ekranie.","refusal":null,"role":"assistant"}}],"created":1728819161,"id":"chatcmpl-AHr7x5ZPFkQrgDhyN2f1HRB2OmLRv","model":"gpt-4o-2024-08-06","object":"chat.completion","system_fingerprint":"fp_6b68a8204b","usage":{"completion_tokens":77,"completion_tokens_details":{"reasoning_tokens":0},"prompt_tokens":36,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":113}}}
+{"level":"info","message":"Fetching last version of code for prompt:","prompt":"Hello World in Python"}
+{"level":"info","message":"Saving new version of code with version:","version":1}
+{"level":"info","message":"Fetching code history..."}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
+{"level":"info","message":"Configuring CORS settings..."}
+{"level":"info","message":"Setting up JSON parsing middleware for all routes..."}
+{"level":"info","message":"Applying security headers using Helmet..."}
+{"level":"info","message":"Applying rate limiting to all routes..."}
+{"level":"info","message":"Connecting to the database..."}
+{"level":"info","message":"Attempting to connect to MongoDB..."}
+{"level":"info","message":"Setting up routes for /api/v1/code..."}
+{"level":"info","message":"Setting up routes for /api/v1/auth..."}
+{"level":"info","message":"Server is running on port 5001"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"Successfully connected to the database"}
